@@ -1,0 +1,46 @@
+{
+  "divisions": {
+    "over30": [
+      {
+        "name": "Reef Chief"
+      },
+      {
+        "name": "Guy Faux"
+      },
+      {
+        "name": "Mr GP"
+      },
+      {
+        "name": "SF Dave"
+      }
+    ],
+    "pro": [
+      {
+        "name": "Mark Mangarin"
+      },
+      {
+        "name": "Ryosuke Iwasawa"
+      },
+      {
+        "name": "Keiran Cooper"
+      },
+      {
+        "name": "Jaysen Subia"
+      }
+    ],
+    "amateur": [
+      {
+        "name": "Slab Master"
+      },
+      {
+        "name": "GoodForTrash"
+      },
+      {
+        "name": "1aChad"
+      },
+      {
+        "name": "betrayed by becko"
+      }
+    ]
+  }
+}
