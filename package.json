@@ -3,6 +3,7 @@
     "dev": "nodemon app.js"
   },
   "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.4"
   }
 }
